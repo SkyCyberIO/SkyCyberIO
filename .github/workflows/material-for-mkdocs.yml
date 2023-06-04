@@ -1,6 +1,6 @@
-name: Material-for-MkDocs
+name: Material for MkDocs
 env:
-  NAME: 'Material-for-MkDocs'
+  NAME: 'Material for MkDocs'
 on:
   push:
     branches:
