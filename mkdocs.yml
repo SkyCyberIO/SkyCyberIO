@@ -17,9 +17,9 @@ theme:
   name: material
   custom_dir: material/.overrides
   features:
-    - announce.dismiss
-    - content.action.edit
-    - content.action.view
+    # - announce.dismiss
+    # - content.action.edit
+    # - content.action.view
     - content.code.annotate
     - content.code.copy
     # - content.tabs.link
@@ -41,24 +41,16 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: default
+    primary: white
+    accent: green
   font:
     text: Roboto
     code: Roboto Mono
+  language: en
   favicon: assets/favicon.png
   icon:
-    logo: logo
+    logo: material/bash
 
 # Plugins
 plugins:
@@ -67,6 +59,7 @@ plugins:
 
 # Customization
 extra:
+  homepage: https://skycyber.io
   annotate:
     json: [.s2]
   analytics:
