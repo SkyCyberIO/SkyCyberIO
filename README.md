@@ -24,4 +24,4 @@ SkyCyberIO 是一个开源组织，我们欢迎任何人加入这个团队，加
 - 孵化自己的项目，并获得专业指导
 - 将自己的项目上线并落地，获得商业回报
 
-如您对加入 SkyCyberIO 感兴趣，欢迎在 [Discussions](https://github.com/orgs/SkyCyberIO/discussions} 中讨论咨询
+如您对加入 SkyCyberIO 感兴趣，欢迎在 [Discussions](https://github.com/orgs/SkyCyberIO/discussions) 中讨论咨询
