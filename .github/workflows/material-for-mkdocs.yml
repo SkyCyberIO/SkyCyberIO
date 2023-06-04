@@ -1,6 +1,4 @@
 name: Material for MkDocs
-env:
-  NAME: 'Material for MkDocs'
 on:
   push:
     branches:
@@ -9,6 +7,7 @@ permissions:
   contents: write
 jobs:
   deploy:
+    environment: Material for MkDocs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
